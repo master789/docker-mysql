@@ -1,5 +1,7 @@
 FROM ubuntu:latest
 
+sam
+
 # Install latest updates
 RUN apt-get update
 #RUN apt-get upgrade -y
